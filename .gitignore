@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (si tu utilises VS Code)
+.vscode/
+
+# Coverage reports (si tu fais des tests)
+coverage/
+
+# Optional: ignore build artifacts (si tu fais du frontend plus tard)
+dist/
+build/
